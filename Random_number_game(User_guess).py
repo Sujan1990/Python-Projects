@@ -16,4 +16,4 @@ def random_number(x):
     print(f"Congratulations! You guessed the correct number {number}.")
 
 
-random_number(10)
+random_number(100)
