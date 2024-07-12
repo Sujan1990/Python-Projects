@@ -23,3 +23,5 @@
 
 #8. Operator Precedence 
     # P , E , M, D , //, % , +, - , Bitwise, COmparision, Logical
+    # BODMAS (Brackets, Orders, Division, Multiplication, Addition, and Subtraction)
+    # If same precedence, expression is evaluated from left to right.
